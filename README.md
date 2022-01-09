@@ -3,7 +3,7 @@
 
 
 
-###### You can click on the banner
+###### You can click on the banner below :point_down:
 [![Naweli's GitHub Banner](./assets/GitHubHeader.png)](https://naweli777.github.io/masterportfolio/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/NaweliVerma/NaweliVerma)](https://naweli777.github.io/masterportfolio/)
@@ -11,4 +11,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/naweli-verma-2a0374176/)
 
 ## About Me :
-###### I am Naweli Verma. I am a Full-stack Developer ,I love to build and fix creative products. I am very much into startups, books, photography, writing, desigining and doodling. When I am not building products, you can find me watching Harry Potter and reading books. :books: 
+I am Naweli Verma. I am a Full-stack Developer ,I love to build and fix creative products. I am very much into startups, books, photography, writing, desigining and doodling. When I am not building products, you can find me watching Harry Potter and reading books. :books: 
+
+
+
+![Naweli's GitHub stats](https://github-readme-stats.vercel.app/api?username=naweli777&count_private=true)
