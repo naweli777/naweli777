@@ -57,6 +57,5 @@
 
 ## :chart_with_upwards_trend: Most used language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naweli777&theme=radical)](https://github.com/naweli777/Color-Flipper.git)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naweli777&theme=radical)](https://github.com/naweli777/masterportfolio.git)
 
