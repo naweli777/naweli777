@@ -25,11 +25,10 @@
 <br />
 
 <a href="https://github.com/naweli777/Notice-Board.git">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=Notice-Board&theme=radical" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=Notice-Board&theme=radical" />
 </a>
-
 <a href="https://github.com/naweli777/Color-Flipper.git">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=Color-Flipper&theme=radical" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=Color-Flipper&theme=radical" />
 </a>
 
 
