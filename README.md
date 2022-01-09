@@ -12,9 +12,16 @@
 ## About Me :
 **I am Naweli Verma. I am a Full-stack Developer ,I love to build and fix creative products. I am very much into startups, books, photography, writing, desigining and doodling. When I am not building products, you can find me watching Harry Potter and reading books. :books:**
 
-**Pinned Projects :pushpin:**
+## Pinned Projects :pushpin: ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=github-readme-stats)](https://github.com/naweli777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=github-readme-stats&show_icons=true&theme=radical)](https://github.com/naweli777/Covid-Tracker.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=github-readme-stats)](https://github.com/naweli777/Notice-Board.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=github-readme-stats)](https://github.com/naweli777/masterportfolio.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=github-readme-stats)](https://github.com/naweli777/Color-Flipper.git)
+
+
+
+
 
 
 
