@@ -1,7 +1,6 @@
 ## Hey there! :wave:
 ## This is Naweli Verma :raising_hand:
 
-<span style="color: green"> Some green text </span>
 
 
 ###### You can click on the banner below :point_down:
