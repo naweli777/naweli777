@@ -48,6 +48,8 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=FD428E)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=FD428E)
 
+<hr>
+
 
 
 ## :bar_chart: The Stats
@@ -55,7 +57,6 @@
 ![Naweli's GitHub stats](https://github-readme-stats.vercel.app/api?username=naweli777&count_private=true&show_icons=true&theme=radical)
 
 <hr>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naweli777&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
 
 ## :chart_with_upwards_trend: Most used language 
