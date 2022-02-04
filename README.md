@@ -54,6 +54,9 @@
 
 ![Naweli's GitHub stats](https://github-readme-stats.vercel.app/api?username=naweli777&count_private=true&show_icons=true&theme=radical)
 
+<hr>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naweli777&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+
 
 ## :chart_with_upwards_trend: Most used language 
 
