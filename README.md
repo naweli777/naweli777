@@ -23,9 +23,9 @@
 
 ## :pushpin: Pinned Projects ##
 
-<!-- <a href="https://github.com/naweli777/masterportfolio.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=masterportfolio&theme=radical" />
-</a> -->
+<a href="https://github.com/naweli777/portfolio-me.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=portfolio-me&theme=radical" />
+</a>
 <a href="https://github.com/naweli777/Covid-Tracker.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naweli777&repo=Covid-Tracker&theme=radical" />
 </a>
